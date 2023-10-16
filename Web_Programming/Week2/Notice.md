@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Week%202&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Introduce%20Javascript!&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Week%202&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Introduce%20Javascript!&descAlignY=51&descAlign=70&)
+
+## 2023.10.16. Mon
 
 ## Contents
 1. [Abstract](#abstract)
