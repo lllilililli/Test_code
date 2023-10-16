@@ -34,8 +34,8 @@
   - [`exercise_7.html`]
   - [`exercise_8.html`]
   - [`exercise_9.html`]
-  - [`exercise_10.html`](##exercise_10)
-  - [`exercise_11.html`](##exercise_11)
+  - [`exercise_10.html`](#exercise_10)
+  - [`exercise_11.html`](#exercise_11)
   - [`exercise_12.html`]
   - [`lab.html`](##lab)
 
