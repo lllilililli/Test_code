@@ -21,10 +21,22 @@
 
      *자바스크립트에서 함수는 일급객체(first-class object)이다. 즉 함수는 그 자체로 객체이다. 람다식도 지원한다.
 
+      ![image](https://github.com/lllilililli/Test_code/assets/130049769/a7ba36cd-8710-49dc-80ef-ec229f72f3cb)
 
 # Files
-  1. `1examples1.html`
-  2. `lab.html`
+  1. [`exercise_1.html`]
+  2. [`exercise_2.html`]
+  3. [`exercise_3.html`]
+  4. [`exercise_4.html`]
+  5. [`exercise_5.html`]
+  6. [`exercise_6.html`]
+  7. [`exercise_7.html`]
+  8. [`exercise_8.html`]
+  9. [`exercise_9.html`]
+  10. [`exercise_10.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/exercise_10.html)
+  11. [`exercise_11.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/exercise_11.html)
+  12. [`exercise_12.html`]
+  13. [`lab.html`]
 
 
 # Examples
