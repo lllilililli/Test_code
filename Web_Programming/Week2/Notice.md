@@ -1,9 +1,9 @@
-![image](https://github.com/lllilililli/Test_code/assets/130049769/aa77b3dc-96be-42a8-be27-717ef706955d)![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Week%202&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Introduce%20Javascript!&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Week%202&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Introduce%20Javascript!&descAlignY=51&descAlign=70)
 
-## Navigation
+## Contents
 1. [Abstract](#abstract)
 2. [Files](#files)
-3. [Examples](#examples)
+3. [Exercises](#exercises)
 
 
 # Abstract
@@ -21,24 +21,34 @@
 
      *자바스크립트에서 함수는 일급객체(first-class object)이다. 즉 함수는 그 자체로 객체이다. 람다식도 지원한다.
 
+
       ![image](https://github.com/lllilililli/Test_code/assets/130049769/a7ba36cd-8710-49dc-80ef-ec229f72f3cb)
 
 # Files
-  1. [`exercise_1.html`]
-  2. [`exercise_2.html`]
-  3. [`exercise_3.html`]
-  4. [`exercise_4.html`]
-  5. [`exercise_5.html`]
-  6. [`exercise_6.html`]
-  7. [`exercise_7.html`]
-  8. [`exercise_8.html`]
-  9. [`exercise_9.html`]
-  10. [`exercise_10.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/exercise_10.html)
-  11. [`exercise_11.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/exercise_11.html)
-  12. [`exercise_12.html`]
-  13. [`lab.html`]
+  - [`exercise_1.html`]
+  - [`exercise_2.html`]
+  - [`exercise_3.html`]
+  - [`exercise_4.html`]
+  - [`exercise_5.html`]
+  - [`exercise_6.html`]
+  - [`exercise_7.html`]
+  - [`exercise_8.html`]
+  - [`exercise_9.html`]
+  - [`exercise_10.html`](## exercise#10)
+  - [`exercise_11.html`](## exercise#11)
+  - [`exercise_12.html`]
+  - [`lab.html`](## lab)
 
 
-# Examples
+# Exercises
+## exercise#1
 
-  
+
+## exercise#10
+  - [`exercise_10.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/exercise_10.html)
+
+## exercise#11
+  - [`exercise_11.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/exercise_11.html)
+
+## lab
+  - [`lab.html`](https://github.com/lllilililli/Test_code/edit/main/Web_Programming/Week2/lab.html)
