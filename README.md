@@ -1,5 +1,13 @@
 # Network_homwork
 
 ```
-detected_circles = cv2.HoughCircles(gray, cv2.HOUGH_GRADIENT, 1, 20, param1=100, param2=45, minRadius=100, maxRadius=150)
+arclength = cv2.arcLength(contour, True)
+epsilon = coefficient * arclength
+approx = cv2.approxPolyDP(contour, epsilon, True)
+```
+
+# Calculate the error rate of x-aixs and y-aixs
+```
+x_error_rate = abs(x-CENTER_X) / CENTER_X * 100
+y_error_rate = abs(y-CENTER_Y) / CENTER_Y * 100
 ```
